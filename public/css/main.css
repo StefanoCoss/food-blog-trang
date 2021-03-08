@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(247, 203, 203);
+}
+
+.logo{
+    width: 100%;
+    height: auto;
+}
+
+.banner-area2 {
+    
+    background-image: url(../images/BanhtomHoTay.jpg);
+    padding: 150px 0 160px;
+    position: relative;
+    z-index: 1;
+    background-color: rgb(224, 17, 17);
+    
+    
+}
