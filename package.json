@@ -4,7 +4,7 @@
   "description": "trangs food blog",
   "main": "app.js",
   "scripts": {
-    
+    "start": "node app.js"
 
   },
   "keywords": [
