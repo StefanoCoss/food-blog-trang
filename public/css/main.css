@@ -7,13 +7,8 @@ body{
     height: auto;
 }
 
-.banner-area2 {
+.banner-area {
     
-    background-image: url(../images/BanhtomHoTay.jpg);
-    padding: 150px 0 160px;
-    position: relative;
-    z-index: 1;
-    background-color: rgb(224, 17, 17);
-    
-    
+    background-image: url(../images/BunboHue.jpg);
+ 
 }

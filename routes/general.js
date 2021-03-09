@@ -10,7 +10,7 @@ data={
 }
 router.get("/",(req,res)=>{
     
-    res.render("index",data);
+    res.render("indexNew",data);
 
 });
 
