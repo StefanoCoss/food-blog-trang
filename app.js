@@ -9,11 +9,13 @@ app.use("/",generalRoutes);
 app.use(express.static("public"));
 
 
-// app.listen(port,()=>{
-//     console.log(`${appName} serving at http://localhost:${port}`);
+app.listen(port,()=>{
+    console.log(`${appName} serving at http://localhost:${port}`);
 
+});
+
+// app.listen(process.env.PORT,process.env.IP,function(){
+// console.log("trangs-food-blog Running on HEROKU")
 // });
 
-app.listen(process.env.PORT,process.env.IP,function(){
-console.log("trangs-food-blog Running on HEROKU")
-});
+
